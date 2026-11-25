@@ -1,6 +1,6 @@
 # Pra-pemrosesan Citra & Baseline Tesseract OCR untuk Tulisan Tangan
 
-Proyek mata kuliah **Pengolahan Citra Digital**. Repositori ini berisi *pipeline* pra-pemrosesan citra berbasis **OpenCV** dan **scikit-image**, lalu mengevaluasi akurasi **Tesseract OCR** pada tulisan tangan di **kertas polos** maupun **kertas bergaris**. Akurasi diukur dengan **CER** (*Character Error Rate*) dan **WER** (*Word Error Rate*).
+Proyek mata kuliah **Pengolahan Citra Digital**. Repositori ini berisi pra-pemrosesan citra berbasis **OpenCV** dan **scikit-image**, lalu mengevaluasi akurasi **Tesseract OCR** pada tulisan tangan di **kertas polos** maupun **kertas bergaris**. Akurasi diukur dengan **CER** (*Character Error Rate*) dan **WER** (*Word Error Rate*).
 
 ---
 
